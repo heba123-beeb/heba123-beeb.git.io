@@ -1,0 +1,177 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "95e816fa079b628055169187e7e56b08"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/hbh",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/hbh/index.html",
+        "type": "file",
+        "md5": "475108fd1a695320bebf3f6674f563f5"
+    },
+    {
+        "path": "creed-aventus-the-iconic-fragrance-that-redefined-luxury-and-masculinity",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creed-aventus-the-iconic-fragrance-that-redefined-luxury-and-masculinity/index.html",
+        "type": "file",
+        "md5": "6f9971fc8018cbe3aa14436e93b8ee57"
+    },
+    {
+        "path": "creed-aventus-the-ultimate-fragrance-of-power-success-and-timeless-elegance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creed-aventus-the-ultimate-fragrance-of-power-success-and-timeless-elegance/index.html",
+        "type": "file",
+        "md5": "47b541b7add833e41cf46f41ed1fb232"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "e5c48fdb93fe552c912aed86aa75a355"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "f2375f67c10b1bae26f019d4a9e7b2f9"
+    },
+    {
+        "path": "fragrance-news-2025-discover-the-hottest-trends-breakthrough-innovations-and-market-transformations-in-the-world-of-perfume",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fragrance-news-2025-discover-the-hottest-trends-breakthrough-innovations-and-market-transformations-in-the-world-of-perfume/index.html",
+        "type": "file",
+        "md5": "311066ee1e85c476c608294c4eac70c2"
+    },
+    {
+        "path": "fragrance-news-2025-exploring-the-latest-perfume-trends-market-insights-and-innovations",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fragrance-news-2025-exploring-the-latest-perfume-trends-market-insights-and-innovations/index.html",
+        "type": "file",
+        "md5": "6d4868887926b2f1994e202b4fd31921"
+    },
+    {
+        "path": "fragrance-news-2025-the-latest-trends-innovations-and-industry-insights",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fragrance-news-2025-the-latest-trends-innovations-and-industry-insights/index.html",
+        "type": "file",
+        "md5": "34d416abd879b676ba0ec9bff8afa840"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "1f88f1b0d1e8868567da2cfea5e79d13"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "95d32c98758ec8e8e8666638d24841d9"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "6b19d9e5ff0b9251a4b0c7761cf1994d"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "c4ba62cc16ba37872e8d5e4cca64de92"
+    }
+]
